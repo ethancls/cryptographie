@@ -1,0 +1,1 @@
+Bravo, votre programme c parvient à lire correctement le fichier en entrée (sauf les accents qui passent peut-être moins bien) !
