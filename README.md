@@ -1,2 +1,2 @@
 # cryptographie
-Plusieurs TP, Vigenère, César, Quadgrams.
+Plusieurs TP, Vigenère, César, Permutations et Quadgrams.
